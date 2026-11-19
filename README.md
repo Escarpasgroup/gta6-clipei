@@ -18,7 +18,7 @@ nem segredos de nenhum canal: cada pessoa cria a própria operação ao instalar
 2. Clone dentro da pasta de skills do Claude Code (no Git Bash):
 
    ```bash
-   git clone <URL-deste-repositório> ~/.claude/skills/gta6-clipei
+   git clone https://github.com/Escarpasgroup/gta6-clipei.git ~/.claude/skills/gta6-clipei
    ```
 
 3. Crie a sua operação:

@@ -1,0 +1,9 @@
+{"contexto":"Primeira noite dele no GTA 6 online; dois minutos antes tinha perdido a moto para a polícia.",
+ "historia":true,
+ "abertura":"2 MINUTOS DEPOIS DE PERDER A MOTO, ELE ENTROU NA BRIGA DE BAR",
+ "contribuicoes":[
+   {"tipo":"contexto","texto":"cartela 0–2 s: tinha acabado de perder a moto para a polícia","base":"gravação b015 18:40–19:10"},
+   {"tipo":"analise","texto":"ganhou as duas primeiras rodadas só esquivando, sem soco","base":"quadros 00:08–00:12 do corte"},
+   {"tipo":"humor","texto":"*a Lucia resolvendo*","base":"Lucia entra na briga 00:27"}],
+ "fala_preservada":true,
+ "inventado":false}

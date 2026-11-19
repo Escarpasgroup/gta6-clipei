@@ -1,0 +1,5 @@
+operacao.local
+assets/fonts/*.ttf
+*.bak*
+segredos.env
+*.zip

@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fala,Segoe UI Black,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,3,5,40,40,0,1
+Style: Hook,Impact,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+Style: Cap,Impact,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:03.50,Hook,,0,0,0,,{\q2\pos(540,700)\fscx80\fscy80\t(0,120,\fscx104\fscy104)\t(120,200,\fscx100\fscy100)}QUANDO VOCÊ TENTA ROUBAR\NA VIATURA NO GTA 6:
+Dialogue: 2,0:00:12.60,0:00:16.20,Cap,,0,0,0,,{\q2\pos(540,1500)\fs66\fad(80,120)}*cooperação total*
